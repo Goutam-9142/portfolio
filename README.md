@@ -1,4 +1,4 @@
-# 💻 CodeVersa
+#  CodeVersa
 
 > **A modern and responsive developer portfolio website built with HTML and CSS.**
 
